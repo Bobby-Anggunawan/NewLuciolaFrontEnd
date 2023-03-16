@@ -1,0 +1,3 @@
+enum SearchResultType{
+  Kata, Lagu
+}
